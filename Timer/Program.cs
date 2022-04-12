@@ -8,8 +8,8 @@ namespace Timer
     static void Main(string[] args)
     {
       
-      Console.WriteLine("Type a number and 'm' for minute(s) or 's' for second(s) as the exemple below:");
-      Console.WriteLine("For 10 minuts type: 10m");
+      Console.WriteLine("Type a number and 'm' for minute(s) or 's' for second(s) as the example below:");
+      Console.WriteLine("For 10 minutes type: 10m");
       Console.WriteLine();
       Console.Write("Set the timer for: ");
       string value = Console.ReadLine().ToLower();
